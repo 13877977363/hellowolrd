@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+oasdasdasdasdasd
+asdad
+=======
+asdasdasd
+add a 
+second
+>>
+asdasd
